@@ -6,39 +6,6 @@
   <strong>Software Developer focused on turning ideas into things that work.</strong>
 </p>
 
-<p align="center">
-  Web Development &nbsp;•&nbsp; Software &nbsp;•&nbsp; UI &nbsp;•&nbsp; Technology
-</p>
-
-<br>
-
-## 🚬
-
-I learn best when I have something to build.
-
-Instead of collecting technologies, I prefer to understand **why and when to use them** — then put that knowledge into real projects.
-
-Most of what you'll find here comes from curiosity: an idea, a problem I want to solve, or simply something I want to understand better.
-
-```js id="lpr80w"
-const pavoneh = {
-  role: "Software Developer",
-
-  likes: [
-    "building for the web",
-    "clean interfaces",
-    "gaming & hardware",
-    "learning how things work"
-  ],
-
-  approach: "learn → build → break → understand → improve",
-
-  currentGoal: "make the next project better than the last"
-};
-```
-
-<br>
-
 ## /My toolbox
 
 <p>
